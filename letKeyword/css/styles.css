@@ -1,0 +1,12 @@
+#box
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+#box>div
+{
+    height: 5em;
+    width: 5em;
+    background-color: red;
+}
